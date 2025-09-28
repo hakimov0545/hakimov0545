@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Abdulaziz Hakimov
 
-### 🚀 Frontend Developer | 🌟 UI/UX Enthusiast | 🎯 Problem Solver
+### 🚀 Full-Stack Developer | 🌟 UI/UX Enthusiast | 🎯 Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer+from+Uzbekistan;Always+learning+new+technologies;Building+amazing+web+experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+from+Uzbekistan;Always+learning+new+technologies;Building+amazing+web+experiences" alt="Typing SVG" />
 
 </div>
 
@@ -14,19 +14,17 @@
 
 \`\`\`javascript
 const abdulaziz = {
-    age: 19,
-    location: "Uzbekistan 🇺🇿",
-    role: "Frontend Developer",
+    location: "Uzbekistan",
+    role: "Full-Stack Developer",
     languages: ["Uzbek", "Russian", "English"],
-    currentFocus: "Backend Development",
-    passion: "Creating intuitive user interfaces",
+    currentFocus: "Building scalable web applications",
+    passion: "Creating seamless user experiences",
     motto: "Code with purpose, design with empathy"
 };
 \`\`\`
 
-- 🎓 **19 years old** and constantly evolving in web development
-- 🌱 Currently expanding into **backend development**
-- 🎨 Passionate about creating **intuitive user interfaces**
+- 🌱 Passionate about creating **end-to-end web solutions**
+- 🎨 Expert in building **intuitive user interfaces** and **robust backends**
 - 🌍 Building projects that **solve real-world problems**
 - ✨ Open to **collaboration** on meaningful projects
 
@@ -36,7 +34,7 @@ const abdulaziz = {
 
 <div align="center">
 
-### Frontend
+### Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,23 +42,32 @@ const abdulaziz = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### Styling & UI
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-
-### State Management
+### State Management & Data Fetching
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FF6B35?style=for-the-badge&logo=react&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
 
-### Backend (Learning)
+### Styling & UI Frameworks
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+### Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-### Tools & Others
+### Tools & Development
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -84,11 +91,12 @@ const abdulaziz = {
 
 ## 🎯 Current Goals
 
-- 🔥 Master **Node.js** and **Express.js**
-- 🚀 Build full-stack applications
-- 📱 Explore **React Native** for mobile development
+- 🔥 Master **microservices architecture** and **scalable backend systems**
+- 🚀 Build **production-ready full-stack applications**
+- 📱 Explore **React Native** and **mobile development**
 - 🌐 Contribute to **open-source** projects
-- 📚 Learn **database management** and **DevOps**
+- 📚 Learn **cloud technologies** and **DevOps practices**
+- 🔐 Deepen knowledge in **authentication** and **security**
 
 ---
 
@@ -108,10 +116,11 @@ const abdulaziz = {
 ## 💡 Fun Facts
 
 - 🌍 **Trilingual**: Fluent in Uzbek, Russian, and English
-- 🎨 Love designing **pixel-perfect** user interfaces
+- 🎨 Love designing **pixel-perfect** user interfaces and **efficient APIs**
 - 📚 Always exploring **cutting-edge** technologies
 - ☕ Fueled by coffee and **curiosity**
 - 🎯 Believe in **continuous learning** and growth
+- 🔧 Enjoy **problem-solving** from frontend to backend
 
 ---
 
