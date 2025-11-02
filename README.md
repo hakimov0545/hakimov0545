@@ -12,17 +12,6 @@
 
 ## 🧑‍💻 About Me
 
-\`\`\`javascript
-const abdulaziz = {
-    location: "Uzbekistan",
-    role: "Full-Stack Developer",
-    languages: ["Uzbek", "Russian", "English"],
-    currentFocus: "Building scalable web applications",
-    passion: "Creating seamless user experiences",
-    motto: "Code with purpose, design with empathy"
-};
-\`\`\`
-
 - 🌱 Passionate about creating **end-to-end web solutions**
 - 🎨 Expert in building **intuitive user interfaces** and **robust backends**
 - 🌍 Building projects that **solve real-world problems**
